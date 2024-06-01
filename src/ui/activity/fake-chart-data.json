@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Bitcoin",
+    "data": [
+      5780, 5500, 6600, 5700, 7400, 6900, 8500, 7800, 7600, 8300, 9400, 10000
+    ],
+    "borderColor": "#F2C335",
+    "backgroundColor": "rgba(255, 99, 132, 0.2)",
+    "pointHoverBackgroundColor": "rgb(255, 99, 132)"
+  },
+  {
+    "label": "Ethereum",
+    "data": [
+      5500, 5200, 6400, 4100, 5800, 4500, 6200, 7400, 5600, 6800, 6500, 7200
+    ],
+    "borderColor": "rgb(54, 162, 235)",
+    "pointHoverBackgroundColor": "rgb(54, 162, 235)"
+  },
+  {
+    "label": "Litecoin",
+    "data": [
+      3500, 3200, 3400, 3100, 3800, 3500, 4200, 4400, 4600, 4800, 5000, 5200
+    ],
+    "borderColor": "rgb(51, 255, 0)"
+  }
+]
