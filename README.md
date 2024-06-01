@@ -48,6 +48,4 @@ For the best user experience, it is recommended to use the app at a resolution o
 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or submit a pull request.
 
----
-
 Thank you for using Crypto Dashboard App! If you have any questions or need further assistance, please feel free to contact us.
